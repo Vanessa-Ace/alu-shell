@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#Printing Best school 10 times with loop
 count=11
 while [ $count -le 20 ];do
 echo "Best School"
